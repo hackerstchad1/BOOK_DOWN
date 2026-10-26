@@ -349,10 +349,6 @@ Voir le fichier `LICENSE` du projet pour connaître les conditions exactes d'uti
 
 **BOOK_DOWN**
 
-GitHub :
-
-https://github.com/hackerstchad1/BOOK_DOWN
-
 Développé pour faciliter l'accès aux ressources numériques et encourager l'apprentissage et le partage des connaissances.
 
 ---
