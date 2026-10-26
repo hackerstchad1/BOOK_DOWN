@@ -6,7 +6,7 @@
 
 **BOOK_DOWN** est un outil avancé permettant de télécharger et de gérer des livres numériques directement à partir de liens fournis par l'utilisateur.
 
-Le projet a été développé pour faciliter l'accès aux ressources éducatives et aux livres numériques pour la communauté, notamment les jeunes Tchadiens, en utilisant des sources et des liens accessibles légalement.
+Le projet a été développé pour faciliter l'accès aux ressources éducatives et aux livres numériques pour la communauté, notamment les jeunes Tchadiens, en utilisant des sources et des liens accessibles ilégalement.
 
 ## Objectif
 
